@@ -1,0 +1,31 @@
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\socket.exe.config
+C:\Users\TN-PC\Desktop\socket\socket\obj\Debug\socket.Form1.resources
+C:\Users\TN-PC\Desktop\socket\socket\obj\Debug\socket.Properties.Resources.resources
+C:\Users\TN-PC\Desktop\socket\socket\obj\Debug\socket.csproj.GenerateResource.Cache
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\socket.exe
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\socket.pdb
+C:\Users\TN-PC\Desktop\socket\socket\obj\Debug\socket.csprojResolveAssemblyReference.cache
+C:\Users\TN-PC\Desktop\socket\socket\obj\Debug\socket.exe
+C:\Users\TN-PC\Desktop\socket\socket\obj\Debug\socket.pdb
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\WebSocket4Net.dll
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\log4net.dll
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\SuperSocket.Common.dll
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\TN-PC\Desktop\socket\socket\bin\Debug\SuperWebSocket.dll
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\socket.exe.config
+D:\02 学习\01 学习资料\C#学习\socket\socket\obj\Debug\socket.exe
+D:\02 学习\01 学习资料\C#学习\socket\socket\obj\Debug\socket.pdb
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\socket.exe
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\socket.pdb
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\log4net.dll
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\Newtonsoft.Json.dll
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\SuperSocket.Common.dll
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\SuperSocket.SocketBase.dll
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\SuperSocket.SocketEngine.dll
+D:\02 学习\01 学习资料\C#学习\socket\socket\bin\Debug\SuperWebSocket.dll
+D:\02 学习\01 学习资料\C#学习\socket\socket\obj\Debug\socket.csprojResolveAssemblyReference.cache
+D:\02 学习\01 学习资料\C#学习\socket\socket\obj\Debug\socket.Form1.resources
+D:\02 学习\01 学习资料\C#学习\socket\socket\obj\Debug\socket.Properties.Resources.resources
+D:\02 学习\01 学习资料\C#学习\socket\socket\obj\Debug\socket.csproj.GenerateResource.Cache
